@@ -10,4 +10,4 @@ Use Pet Swagger (https://petstore.swagger.io) and automate the following require
 
 To run tests, clone repository on local machine
 <pre>$ git clone https://github.com/lejlabp/PetStore-Automation.git</pre>
-open the project and run <b>SdetExerciseApplicationTests</b> located in src/test/com.example.SDETExercise. 
+open the project and run <b>SDETExerciseApiTest</b> and <b>SDETExerciseWebUITest</b> located in src/test/com.example.SDETExercise, <br>or execute all tests by running <b>com.example.SDETExercise</b> package. 
