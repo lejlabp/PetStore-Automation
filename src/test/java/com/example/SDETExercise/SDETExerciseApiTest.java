@@ -1,5 +1,7 @@
 package com.example.SDETExercise;
 
+import com.example.SDETExercise.config.Configuration;
+import com.example.SDETExercise.service.PetService;
 import io.github.artsok.RepeatedIfExceptionsTest;
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -1,6 +1,7 @@
-package com.example.SDETExercise;
+package com.example.SDETExercise.service;
 
-import com.example.SDETExercise.jsonModels.Root;
+import com.example.SDETExercise.config.Configuration;
+import com.example.SDETExercise.model.Root;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.restassured.response.ValidatableResponse;

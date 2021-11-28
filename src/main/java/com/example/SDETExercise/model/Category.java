@@ -1,4 +1,4 @@
-package com.example.SDETExercise.jsonModels;
+package com.example.SDETExercise.model;
 
 import java.util.HashMap;
 import java.util.Map;

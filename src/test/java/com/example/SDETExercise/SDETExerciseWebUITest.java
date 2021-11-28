@@ -1,5 +1,6 @@
 package com.example.SDETExercise;
 
+import com.example.SDETExercise.config.Configuration;
 import com.example.SDETExercise.pages.HomePage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

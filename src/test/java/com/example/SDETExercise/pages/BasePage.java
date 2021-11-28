@@ -1,6 +1,6 @@
 package com.example.SDETExercise.pages;
 
-import com.example.SDETExercise.Configuration;
+import com.example.SDETExercise.config.Configuration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;

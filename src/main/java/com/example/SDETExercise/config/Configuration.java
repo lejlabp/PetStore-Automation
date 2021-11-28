@@ -1,4 +1,4 @@
-package com.example.SDETExercise;
+package com.example.SDETExercise.config;
 
 import java.io.InputStream;
 import java.util.Properties;
